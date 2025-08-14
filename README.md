@@ -1,1 +1,2 @@
 # Philosophy
+Some thoughtprovoking texts.
